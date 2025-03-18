@@ -1,8 +1,8 @@
 {
-    "token": "MTM1MTU4NjU4OTM3NzE2NzM3MA.GaEXK2.NM2_FQHSqEU-NRHxdORNwgw82fZ5hjY2S-bFfk",
+    "token": "",
     "language": "en",
     "prefix": "!",
-    "mongodbUri": "mongodb+srv://Saints0tsdn:OIWWnZkXKRNLjWCe@robloxdiscordbot.irpyd.mongodb.net/?retryWrites=true&w=majority&appName=RobloxDiscordBot",
+    "mongodbUri": "",
     "excessCommands": {
         "utility": true,
         "other": true,
